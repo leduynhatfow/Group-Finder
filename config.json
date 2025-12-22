@@ -1,0 +1,21 @@
+{
+  "discord_userID": "1214555232722362418",
+  "webhook_url": "https://discord.com/api/webhooks/1447722615044047021/cGWNxoVXLA_IAJT4PNRyMSZfwtXnGPHLQbQVcpb2jMrNR2RR2KasJYRWLp6l-6C2RSI9",
+  
+  "tor_threads": 100,
+  "proxy_scan_threads": 100,
+  "proxy_start_port": 9080,
+  "tor_directory": "tor",
+  
+  "batch_size": 100,
+  "timeout": 10,
+  "proxy_rescan_interval": 1800,
+  
+  "ranges": [
+    {"start": 1, "end": 1250000, "percent": 0.04},
+    {"start": 2520000, "end": 7960000, "percent": 0.21},
+    {"start": 8000000, "end": 9930000, "percent": 0.04},
+    {"start": 9960000, "end": 17000000, "percent": 0.33},
+    {"start": 32000000, "end": 35250000, "percent": 0.38}
+  ]
+}
