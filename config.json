@@ -1,6 +1,6 @@
 {
   "discord_userID": "1214555232722362418",
-  "webhook_url": "https://discord.com/api/webhooks/1447722615044047021/cGWNxoVXLA_IAJT4PNRyMSZfwtXnGPHLQbQVcpb2jMrNR2RR2KasJYRWLp6l-6C2RSI9",
+  "webhook_url": "",
   
   "tor_threads": 100,
   "proxy_scan_threads": 100,
@@ -18,4 +18,5 @@
     {"start": 9960000, "end": 17000000, "percent": 0.33},
     {"start": 32000000, "end": 35250000, "percent": 0.38}
   ]
+
 }
